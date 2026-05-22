@@ -382,7 +382,7 @@ export default function App() {
         <p className="hero-eyebrow">UX / UI Design Portfolio</p>
         <h1>
           Hi, I'm <em>Kaouther S.</em>
-          <br />I design with intention.
+          <br />Welcome to my portfolio!
         </h1>
         <p className="hero-sub">
           Third year Computer Science student at the University of Ottawa
