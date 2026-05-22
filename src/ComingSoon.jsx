@@ -2,15 +2,13 @@ export default function ComingSoon() {
     return (
       <div
         style={{
-          fontFamily: "'Nunito', sans-serif",
-          background: "#F7F4EF",
-          color: "#4B433E",
+          minHeight: "100vh",
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
-          minHeight: "100vh",
-          textAlign: "center",
+          background: "#F7F4EF",
           padding: "2rem",
+          fontFamily: "'Nunito', sans-serif",
         }}
       >
         <div
@@ -20,8 +18,8 @@ export default function ComingSoon() {
             borderRadius: "20px",
             maxWidth: "520px",
             width: "100%",
+            textAlign: "center",
             boxShadow: "0 12px 30px rgba(0,0,0,0.05)",
-            border: "1px solid rgba(0,0,0,0.04)",
           }}
         >
           <div
@@ -52,14 +50,12 @@ export default function ComingSoon() {
             style={{
               fontFamily: "'Lora', serif",
               color: "#7A675A",
-              fontSize: "1rem",
               lineHeight: "1.7",
               marginBottom: "2rem",
             }}
           >
             This project is currently in progress as part of SEG3125 –
-            Analysis and Design of User Interfaces. It will be published once
-            completed later in the semester.
+            Analysis and Design of User Interfaces.
           </p>
   
           <a
@@ -67,12 +63,10 @@ export default function ComingSoon() {
             style={{
               display: "inline-block",
               background: "#A8B7A0",
-              color: "#FFFCF8",
+              color: "#fff",
               textDecoration: "none",
               padding: "0.75rem 1.8rem",
               borderRadius: "2rem",
-              fontSize: "0.85rem",
-              fontWeight: "500",
             }}
           >
             ← Back to Portfolio
