@@ -426,9 +426,9 @@ export default function App() {
                 marginBottom: "1.5rem",
               }}
             >
-              Outside of design and development, I enjoy baking, cafés,
-              gardening, and exploring creative projects. These interests shape
-              the way I approach design — thoughtfully and with attention to
+              Outside of design and development, I enjoy baking, reading,
+              gardening, and exploring cafés around Ottawa. These interests shape
+              the way I approach design thoughtfully and with attention to
               detail.
             </p>
             <div>
