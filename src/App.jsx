@@ -528,15 +528,15 @@ export default function App() {
 
           <div className="cases-grid">
             <CaseCard
-              href="/coming-soon"
+              href="https://herspacestudio.netlify.app/"
               thumbClass="case-thumb-1"
-              emoji="🦷"
+              emoji="🤸‍♀️"
               num="Design 01"
               name="Service Website"
               desc="A responsive website designed for a local service business focused on clarity and accessibility."
             />
             <CaseCard
-              href="/coming-soon"
+              href="https://echotrailgame.netlify.app/"
               thumbClass="case-thumb-2"
               emoji="🃏"
               num="Design 02"
@@ -546,7 +546,7 @@ export default function App() {
             <CaseCard
               href="/coming-soon"
               thumbClass="case-thumb-3"
-              emoji="🛍️"
+              emoji="☕"
               num="Design 03"
               name="E-Commerce Site"
               desc="An online shopping experience designed around readability, trust, and usability."
